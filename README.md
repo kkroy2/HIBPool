@@ -24,4 +24,4 @@ To determine different substructures present in graph data, the input graph is p
 # Baseline Comparison
 ![Baseline Comparison](comparison.png?raw=true "Title")
 
-Table : Comparison with Baselines: ’-’ denotes that results are not publicly available.
+    Table : Comparison with Baselines: ’-’ denotes that results are not publicly available.
