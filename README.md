@@ -20,3 +20,8 @@ Graph pooling is an essential ingredient of Graph Neural Networks (GNNs) in grap
 
 To determine different substructures present in graph data, the input graph is partitioned into communities where  intra-community nodes are represented with same color and they are densely connected than inter-community nodes. After aggregating features from neighborhood using Messaging Passing Network (MPN) we apply structure-aware DiP-Readout to obtain distinguishable representations of communities with different substructures while the pooled graph of next layer is created with the edges connecting different communities. Summary representation is obtained by a readout function after the final layer. Optimizing with IB principal ensure minimal redundancy from graph data with sufficient information to predict the class labels.
 
+
+# Baseline Comparison
+![Baseline Comparison](experiments.png?raw=true "Title")
+
+Table : Comparison with Baselines: ’-’ denotes that results are not publicly available.
