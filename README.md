@@ -10,6 +10,20 @@
 
 This is a pytorch implementation of our [paper](https://arxiv.org/abs/2104.13012) "Structure-Aware Hierarchical Graph Pooling using Information Bottleneck" which has been accepted by IJCNN 2021.  Check the video presentation of our paper [here](https://youtu.be/L3amRKyaCsw).
 
+## Citation
+
+Please cite our paper:
+
+```
+@article{roy2021structure,
+  title={Structure-Aware Hierarchical Graph Pooling using Information Bottleneck},
+  author={Roy, Kashob Kumar and Roy, Amit and Rahman, AKM and Amin, M Ashraful and Ali, Amin Ahsan},
+  journal={arXiv preprint arXiv:2104.13012},
+  year={2021}
+}
+
+```
+
 
 # Abstract
 
