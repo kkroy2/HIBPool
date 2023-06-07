@@ -12,9 +12,9 @@ This is a pytorch implementation of our [paper](https://arxiv.org/abs/2104.13012
 
 ## Citation
 
-Please cite our paper:
+If you find our paper or repo useful then please cite our paper:
 
-```
+```bibtex
 @article{roy2021structure,
   title={Structure-Aware Hierarchical Graph Pooling using Information Bottleneck},
   author={Roy, Kashob Kumar and Roy, Amit and Rahman, AKM and Amin, M Ashraful and Ali, Amin Ahsan},
