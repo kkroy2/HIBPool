@@ -39,3 +39,7 @@ If you find our paper or repo useful then please cite our paper:
 }
 
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kkroy2/HIBPool&type=Date)](https://star-history.com/#kkroy2/HIBPool&Date)
